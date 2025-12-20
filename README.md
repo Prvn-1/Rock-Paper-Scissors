@@ -36,9 +36,9 @@ The main purpose of this project is to practice JavaScript fundamentals by build
 
 📂 Project Structure
 
-* `index.html` – Game layout
-* `style.css` – UI styling
-* `script.js` – Game logic and score handling
+* `rock-paper-scissors.html` – Game layout
+* `rock-paper-scissors.css` – UI styling
+* `rock-paper-scissors.js` – Game logic and score handling
 
 🚀 Future Improvements
 
