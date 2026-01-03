@@ -1,54 +1,85 @@
-🪨📄✂️ Rock Paper Scissors Game
 
-Project Direct Link - https://praveen-mani-gitzz.github.io/Rock-Paper-Scissors/
+# 🪨📄✂️ Rock Paper Scissors Game
 
-📌 Overview
+🔗 **Live Demo:**
+[https://praveen-mani-gitzz.github.io/Rock-Paper-Scissors/](https://praveen-mani-gitzz.github.io/Rock-Paper-Scissors/)
 
-This project is a browser-based **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
-The user plays against the computer, which randomly selects a move each round. The game displays the result instantly and keeps track of the score.
+---
 
-🎯 Purpose
+## 📌 Overview
 
-The main purpose of this project is to practice JavaScript fundamentals by building an interactive game. It focuses on understanding game logic, DOM manipulation, event handling, and data persistence using browser storage.
+The **Rock Paper Scissors Game** is a browser-based interactive game built using **HTML, CSS, and JavaScript**.
+The user plays against the computer, which generates a random move each round. The game instantly displays the result and maintains a persistent score using browser storage.
 
-🛠️ Technologies Used
+This project demonstrates core front-end development concepts through a simple but complete game application.
 
-* HTML – Structure of the game interface
-* CSS – Styling and layout
-* JavaScript – Game logic and interactivity
+---
 
+## 🎯 Purpose
 
-✨ Features
+The purpose of this project is to strengthen fundamental **JavaScript concepts** by building a real-world interactive application.
+It focuses on:
 
-* Play Rock, Paper, or Scissors against the computer
+* Game logic implementation
+* DOM manipulation
+* Event handling
+* State management
+* Data persistence using `localStorage`
+
+---
+
+## 🛠️ Technologies Used
+
+* **HTML** – Structure of the game interface
+* **CSS** – Styling and layout design
+* **JavaScript** – Game logic, interactivity, and score management
+
+---
+
+## ✨ Features
+
+* Play **Rock, Paper, or Scissors** against the computer
 * Random computer move generation
-* Displays win, loss, or tie result
-* Tracks total wins, losses, and ties
-* Score is saved using **localStorage**
-* Reset score option
+* Instant display of **Win / Loss / Tie** result
+* Tracks total **Wins, Losses, and Ties**
+* Score persistence using **localStorage**
+* Reset score functionality
 
-⚙️ How It Works
+---
 
-1. User clicks one of the move buttons (Rock, Paper, or Scissors).
-2. The computer randomly selects a move.
-3. The game compares both moves and determines the result.
-4. The result and updated score are displayed on the screen.
-5. The score is saved in the browser so it remains after page refresh.
+## ⚙️ How It Works
 
-📂 Project Structure
+1. The user clicks one of the move buttons: **Rock**, **Paper**, or **Scissors**
+2. The computer randomly selects a move
+3. The game compares the user’s move with the computer’s move
+4. The result is calculated and displayed
+5. The score is updated and saved in `localStorage`
+6. The stored score remains even after refreshing the page
 
-* `rock-paper-scissors.html` – Game layout
-* `rock-paper-scissors.css` – UI styling
-* `rock-paper-scissors.js` – Game logic and score handling
+---
 
-🚀 Future Improvements
+## 📂 Project Structure
 
-* Add sound effects
+```
+Rock-Paper-Scissors/
+│
+├── rock-paper-scissors.html   # Game layout
+├── rock-paper-scissors.css    # Styling and UI design
+├── rock-paper-scissors.js     # Game logic and score handling
+```
+
+---
+
+## 🚀 Future Improvements
+
+* Add sound effects for game actions
 * Improve mobile responsiveness
-* Add animations for moves
-* Display game history
+* Add animations for moves and results
+* Display detailed game history
 
-📖 Conclusion
+---
 
-This Rock Paper Scissors game is a simple yet effective project to understand basic front-end development concepts. It demonstrates how logic, UI, and browser storage work together in a small interactive application.
+## 📖 Conclusion
 
+This Rock Paper Scissors game is a simple yet effective project for learning front-end development fundamentals.
+It clearly demonstrates how **logic, UI, and browser storage** work together to create an interactive web application.
