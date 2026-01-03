@@ -1,6 +1,6 @@
 🪨📄✂️ Rock Paper Scissors Game
 
-Project Direct Link - https://praveen-mani-gitzz.github.io/Rock-Paper-Scissors/10-rock-paper-scissors.html
+Project Direct Link - https://praveen-mani-gitzz.github.io/Rock-Paper-Scissors/
 
 📌 Overview
 
