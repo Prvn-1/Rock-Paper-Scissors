@@ -2,7 +2,7 @@
 # 🪨📄✂️ Rock Paper Scissors Game
 
 🔗 **Live Demo:**
-[https://praveen-mani-gitzz.github.io/Rock-Paper-Scissors/](https://praveen-mani-gitzz.github.io/Rock-Paper-Scissors/10-rock-paper-scissors.html%20to%20index.html.html)
+[https://Prvn-1.github.io/Rock-Paper-Scissors/](https://Prvn-1.github.io/Rock-Paper-Scissors/10-rock-paper-scissors.html%20to%20index.html.html)
 
 ---
 
